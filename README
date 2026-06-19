@@ -1,0 +1,36 @@
+## Synopsis
+Assignment of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Assignment
+models/bee.py - Implementation of bees' behaviors, state etc.
+models/environment.py - Arranging the hive, flowers, obstacles, and bees in beeworld
+models/flower.py - Implementation of flower program
+models/hive.py - Implementation of hive program for data count
+models/terrain.py - Implementation of obstacles
+utils/config_loader.py - A program for loading the csv files
+utils/settings.py - Simulation configuration
+utils/visuals.py - All the works related to visualizations
+beeworld.py - Main simulation program for this assignment
+__init__.py - unused files
+__pycache__ - auto generated folder
+map1.csv - A CSV file for terrain program (Batch mode only)
+params1.csv - A CSV file for parameter setups (Batch mode only) 
+Project_Report_23107667 - A report related to the assignment
+
+## Dependencies
+numpy
+random
+time
+matplotlib.pyplot
+argparse
+matplotlib.colors
+matplotlib.patches 
+
+## Version Information
+<05/05/2025> - Initial version of Assignment programs
+<17/05/2025> - Final version of Assignment programs
+
+
+
+

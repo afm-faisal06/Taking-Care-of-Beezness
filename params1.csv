@@ -1,0 +1,10 @@
+num_bees,20
+flowers,15
+trees,5
+strategy,directed
+world_width,100
+world_height,100
+hive_x,50
+hive_y,50
+hive_size,15
+steps,10
