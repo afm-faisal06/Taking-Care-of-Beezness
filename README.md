@@ -79,39 +79,31 @@ This postgraduate project investigates:
 * Object-Oriented Programming
 * CSV-based configuration files
 
-## Contents
+## Repository Contents
 
-* README.md - readme file for Assignment
+├── models/
+│   ├── ``__init__.py``
+│   ├── bee.py                                        # Implementation of bees' behaviors, state etc.
+│   ├── environment.py                                # Arranging the hive, flowers, obstacles, and bees in beeworld
+│   ├── flower.py                                     # Implementation of flower program
+│   ├── hive.py                                       # Implementation of hive program for data count
+│   └── terrain.py                                    # Implementation of obstacles
+│
+├── utils/
+│   ├── ``__init__.py``
+│   ├── config_loader.py                              # A program for loading the csv files
+│   ├── settings.py                                   # Simulation configuration
+│   └── visuals.py                                    # All the works related to visualizations
+│   
+├── 2025 Sem 1 COMP5005 Assignment - v1.0.pdf         # Instructions for the assignment
+├── Project_Report.pdf                                # A report related to the assignment
+├── README.md                                         # Project Documentation
+├── beeworld.py                                       # Main simulation program for this assignment
+├── map1.csv                                          # A CSV file for terrain program (Batch mode only)
+└── params1.csv                                       # A CSV file for parameter setups (Batch mode only) 
 
-* models/bee.py - Implementation of bees' behaviors, state etc.
 
-* models/environment.py - Arranging the hive, flowers, obstacles, and bees in beeworld
-
-* models/flower.py - Implementation of flower program
-
-* models/hive.py - Implementation of hive program for data count
-
-* models/terrain.py - Implementation of obstacles
-
-* utils/config_loader.py - A program for loading the csv files
-
-* utils/settings.py - Simulation configuration
-
-* vutils/visuals.py - All the works related to visualizations
-
-* beeworld.py - Main simulation program for this assignment
-
-* `__init__.py` - unused files
-
-* `__pycache__` - auto generated folder
-
-* map1.csv - A CSV file for terrain program (Batch mode only)
-
-* params1.csv - A CSV file for parameter setups (Batch mode only) 
-
-* Project_Report - A report related to the assignment
-
-* 2025 Sem 1 COMP5005 Assignment - v1.0 - Instructions for the assignment
+> Note: Python automatically generates `__pycache__` folders during execution. These folders are not part of the project source code and are typically excluded from version control. 
 
 
 ## Dependencies
