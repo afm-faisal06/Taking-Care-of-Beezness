@@ -104,9 +104,9 @@ Assignment of Fundamentals of Programming COMP5005
 
 * beeworld.py - Main simulation program for this assignment
 
-* __init__.py - unused files
+* "__init__.py" - unused files
 
-* __pycache__ - auto generated folder
+* "__pycache__" - auto generated folder
 
 map1.csv - A CSV file for terrain program (Batch mode only)
 
@@ -115,23 +115,23 @@ map1.csv - A CSV file for terrain program (Batch mode only)
 * Project_Report - A report related to the assignment
 
 * 2025 Sem 1 COMP5005 Assignment - v1.0 - Instructions for the assignment
-* 
+
 
 ## Dependencies
 
-numpy
+* numpy
 
-random
+* random
 
-time
+* time
 
-matplotlib.pyplot
+* matplotlib.pyplot
 
-argparse
+* argparse
 
-matplotlib.colors
+* matplotlib.colors
 
-matplotlib.patches 
+* matplotlib.patches 
 
 
 ## Version Information
