@@ -81,6 +81,7 @@ This postgraduate project investigates:
 
 ## Repository Contents
 
+```text
 ├── models/
 │   ├── ``__init__.py``
 │   ├── bee.py                                        # Implementation of bees' behaviors, state etc.
@@ -101,7 +102,7 @@ This postgraduate project investigates:
 ├── beeworld.py                                       # Main simulation program for this assignment
 ├── map1.csv                                          # A CSV file for terrain program (Batch mode only)
 └── params1.csv                                       # A CSV file for parameter setups (Batch mode only) 
-
+```
 
 > Note: Python automatically generates `__pycache__` folders during execution. These folders are not part of the project source code and are typically excluded from version control. 
 
