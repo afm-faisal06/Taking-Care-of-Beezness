@@ -83,47 +83,59 @@ This postgraduate project investigates:
 Assignment of Fundamentals of Programming COMP5005
 
 ## Contents
-README - readme file for Assignment
 
-models/bee.py - Implementation of bees' behaviors, state etc.
+* README.md - readme file for Assignment
 
-models/environment.py - Arranging the hive, flowers, obstacles, and bees in beeworld
+* models/bee.py - Implementation of bees' behaviors, state etc.
 
-models/flower.py - Implementation of flower program
+* models/environment.py - Arranging the hive, flowers, obstacles, and bees in beeworld
 
-models/hive.py - Implementation of hive program for data count
+* models/flower.py - Implementation of flower program
 
-models/terrain.py - Implementation of obstacles
+* models/hive.py - Implementation of hive program for data count
 
-utils/config_loader.py - A program for loading the csv files
+* models/terrain.py - Implementation of obstacles
 
-utils/settings.py - Simulation configuration
+* utils/config_loader.py - A program for loading the csv files
 
-utils/visuals.py - All the works related to visualizations
+* utils/settings.py - Simulation configuration
 
-beeworld.py - Main simulation program for this assignment
+* vutils/visuals.py - All the works related to visualizations
 
-__init__.py - unused files
+* beeworld.py - Main simulation program for this assignment
 
-__pycache__ - auto generated folder
+* __init__.py - unused files
+
+* __pycache__ - auto generated folder
 
 map1.csv - A CSV file for terrain program (Batch mode only)
 
-params1.csv - A CSV file for parameter setups (Batch mode only) 
+* params1.csv - A CSV file for parameter setups (Batch mode only) 
 
-Project_Report - A report related to the assignment
+* Project_Report - A report related to the assignment
 
+* 2025 Sem 1 COMP5005 Assignment - v1.0 - Instructions for the assignment
+* 
 
 ## Dependencies
+
 numpy
+
 random
+
 time
+
 matplotlib.pyplot
+
 argparse
+
 matplotlib.colors
+
 matplotlib.patches 
 
+
 ## Version Information
+
 05/05/2025 - Initial version of Assignment programs
 
 17/05/2025 - Final version of Assignment programs
@@ -132,7 +144,9 @@ matplotlib.patches
 ## Author
 
 Abu Fatah Mohammed Faisal
+
 Curtin University
+
 Master of Predictive Analytics
 
 ## License
