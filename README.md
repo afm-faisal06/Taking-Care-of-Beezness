@@ -79,9 +79,6 @@ This postgraduate project investigates:
 * Object-Oriented Programming
 * CSV-based configuration files
 
-## Synopsis
-Assignment of Fundamentals of Programming COMP5005
-
 ## Contents
 
 * README.md - readme file for Assignment
@@ -104,11 +101,11 @@ Assignment of Fundamentals of Programming COMP5005
 
 * beeworld.py - Main simulation program for this assignment
 
-* "__init__.py" - unused files
+* `__init__.py` - unused files
 
-* "__pycache__" - auto generated folder
+* `__pycache__` - auto generated folder
 
-map1.csv - A CSV file for terrain program (Batch mode only)
+* map1.csv - A CSV file for terrain program (Batch mode only)
 
 * params1.csv - A CSV file for parameter setups (Batch mode only) 
 
