@@ -40,18 +40,6 @@ The simulation aims to:
 * Honey accumulation tracking.
 * Parameter-driven experimentation.
 
-## Project Structure
-
-```
-Assignment/
-│
-├── beeworld.py          # Main simulation program
-├── map1.csv             # World terrain configuration
-├── params1.csv          # Simulation parameters
-├── README.md            # Project documentation
-└── output/              # Generated results (optional)
-```
-
 ## Running the Simulation
 
 ### Interactive Mode
@@ -121,8 +109,9 @@ matplotlib.colors
 matplotlib.patches 
 
 ## Version Information
-<05/05/2025> - Initial version of Assignment programs
-<17/05/2025> - Final version of Assignment programs
+05/05/2025 - Initial version of Assignment programs
+
+17/05/2025 - Final version of Assignment programs
 
 
 ## Author
